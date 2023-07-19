@@ -1,2 +1,2 @@
 # Vikas-Repo
-this repo created by vikas using terraform
+this repo created by vikas using terraform script
